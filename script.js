@@ -1,3 +1,0 @@
-let messageIndex = 0;
-const messages = ["Are you sure?", "Really??", "Think again!", "Pleease?", "Okay fine..."];
-// ... then paste your handleNoClick and handleYesClick functions ...
